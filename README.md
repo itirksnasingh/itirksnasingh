@@ -36,7 +36,7 @@
 
 ## 🔭 Featured Project
 
-### 📘 [Book Portal](https://github.com/yourusername/book-portal)
+### 📘 [Book Portal](https://github.com/itirksansingh/bookexchangeportal)
 
 A full-stack platform built using **PHP** and **MySQL** that allows users to browse, add, and manage a personalized collection of books.
 
