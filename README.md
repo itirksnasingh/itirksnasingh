@@ -73,7 +73,7 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📬 Email: your.email@example.com
+- 📬 Email: singhsanskruti2007@gmail.com
 - 🌐 Portfolio: *coming soon*
 
 ---
