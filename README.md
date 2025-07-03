@@ -11,8 +11,8 @@
 ## 🧠 About Me
 
 - 🎓 I'm a second-year Computer Science student passionate about building real-world projects and solving problems with technology.
-- 📘 Currently focused on building a **Book Portal** – a platform that makes exploring and organizing books easier for users.
-- ✨ I love crafting clean, user-focused interfaces with an eye for detail and usability.
+- 📘 Currently focused on building a **Book Portal** – a full-stack web application to explore, organize, and manage books efficiently.
+- ✨ I love crafting clean, user-focused interfaces and learning backend development using PHP and MySQL.
 
 ---
 
@@ -22,6 +22,10 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -34,15 +38,16 @@
 
 ### 📘 [Book Portal](https://github.com/yourusername/book-portal)
 
-A modern and responsive platform for browsing, reviewing, and managing books.
+A full-stack platform built using **PHP** and **MySQL** that allows users to browse, add, and manage a personalized collection of books.
 
 > ✨ Features:
-- Search and explore books by category or title  
-- Add your own book collections and reviews  
-- Clean frontend and user-friendly interface
+- Browse books by genre, title, or author  
+- Add, edit, or delete book entries from your personal library  
+- Login/signup system with database integration  
+- Backend powered by PHP and data managed with MySQL
 
 > 🛠 Tech Stack:  
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, **PHP**, **MySQL**
 
 ---
 
