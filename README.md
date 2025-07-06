@@ -56,7 +56,7 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Cosmo](https://github.com/yourusername/cosmo) | A stylish blog website designed with simplicity and elegance | HTML, CSS, JS |
-| [Mini Poetfolio](https://github.com/yourusername/portfolio) | A personal site to showcase my work and skills | HTML, CSS, JS |
+| [Mini Portfolio](https://github.com/yourusername/portfolio) | A personal site to showcase my work and skills | HTML, CSS, JS |
 | [Web Mini Projects](https://github.com/yourusername/web-mini-projects) | Collection of small frontend designs | HTML, CSS, JS |
 
 ---
