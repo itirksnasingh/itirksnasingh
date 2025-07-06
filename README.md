@@ -36,7 +36,7 @@
 
 ## 🔭 Featured Project
 
-### 📘 [Book Portal](https://github.com/itirksansingh/bookexchangeportal)
+### 📘 [Book Portal](https://github.com/itirksnasingh/bookexchangeportal)
 
 A full-stack platform built using **PHP** and **MySQL** that allows users to browse, add, and manage a personalized collection of books.
 
@@ -55,17 +55,17 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Cosmo](https://github.com/itirksansingh/cosmos) | A stylish blog website designed with simplicity and elegance | HTML, CSS, JS |
-| [Mini Portfolio](https://github.com/itirksansingh/miniportfolio) | A personal site to showcase my work and skills | HTML, CSS, JS,C,PYTHON |
-| [Web Mini Projects](https://github.com/itirksansingh/web-mini-projects) | Collection of small frontend designs | HTML, CSS, JS |
+| [Cosmo](https://github.com/itirksnasingh/cosmos) | A stylish blog website designed with simplicity and elegance | HTML, CSS, JS |
+| [Mini Portfolio](https://github.com/itirksnasingh/miniportfolio) | A personal site to showcase my work and skills | HTML, CSS, JS,C,PYTHON |
+| [Web Mini Projects](https://github.com/itirksnasingh/web-mini-projects) | Collection of small frontend designs | HTML, CSS, JS |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itirksansingh&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksansingh&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksnasingh&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
