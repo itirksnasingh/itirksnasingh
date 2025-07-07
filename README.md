@@ -64,8 +64,8 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itirksansingh&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksansingh&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksnasingh&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
