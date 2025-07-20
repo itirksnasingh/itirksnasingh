@@ -72,7 +72,7 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanskriti-singh-ba7442352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxFu9r2gDSoKmK5hN3lv7Xg%3D%3D)
+- 💼 [LinkedIn](https://www.linkedin.com/in/itirksnasingh)
 - 📬 Email: singhsanskruti2007@gmail.com
 - 🌐 Portfolio: *coming soon*
 
