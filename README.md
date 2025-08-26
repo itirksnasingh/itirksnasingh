@@ -55,7 +55,6 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Cosmo](https://github.com/itirksnasingh/cosmos) | A stylish blog website designed with simplicity and elegance | HTML, CSS, JS |
 | [Mini Portfolio](https://github.com/itirksnasingh/miniportfolio) | A personal site to showcase my work and skills | HTML, CSS, JS,C,PYTHON |
 | [Web Mini Projects](https://github.com/itirksnasingh/web-mini-projects) | Collection of small frontend designs | HTML, CSS, JS |
 
