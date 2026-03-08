@@ -74,18 +74,21 @@ An NLP-based tool that compares resumes with job descriptions to identify missin
 More projects and experiments can be found in my repositories.
 
 ---
-
-## GitHub Activity
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=itirksnasingh&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://ghchart.rshah.org/itirksnasingh" />
 </p>
+
+Most of my work happens quietly through experiments, projects, and ideas I explore while learning.
+
+Some of it becomes repositories.  
+Some of it simply becomes understanding.
 
 ---
 
 ## Connect
-Email 📬: [itirksnasingh@gmail.com](singhsanskruti2007@gmail.com)
+Email 📬: [itirksnasingh@gmail.com](mailto:singhsanskruti2007@gmail.com)
 LinkedIn 💼: [itirksnasingh.LinkedIn.com](https://www.linkedin.com/in/itirksnasingh) 
 Portfolio 🌐: [itirksnasingh_portfolio](https://itirksnasinghportfolio.vercel.app)
 
