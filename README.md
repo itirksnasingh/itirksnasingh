@@ -1,66 +1,75 @@
-<h1 align="center">Hi there, I'm Sanskriti Singh 👋</h1>
+<h1 align="center">Hi, I'm Sanskriti Singh 👋</h1>
 
 <p align="center">
-  🌱 B.Tech | Web Dev Enthusiast | Open to Internships <br>
-  💡 Building Projects | Learning Everyday | Exploring Research <br>
-  📍 India • ✨ Always Curious
+Computer Science (AI/ML) Student • Builder • Curious Thinker <br>
+Exploring Artificial Intelligence, Systems, and Real-World Problem Solving
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 I'm a second-year Computer Science student passionate about building real-world projects and solving problems with technology.
-- 📘 Currently focused on building a **Book Portal** – a full-stack web application to explore, organize, and manage books efficiently.
-- ✨ I love crafting clean, user-focused interfaces and learning backend development using PHP and MySQL.
+I’m a Computer Science student currently exploring **Artificial Intelligence, Machine Learning, and intelligent systems**.
 
----
+I enjoy building projects that combine **technical depth with thoughtful design**, and I’m especially interested in understanding how intelligent systems can be built, deployed, and applied to real-world problems.
 
-## 🛠️ Tech Stack
+Right now my focus is on:
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+- learning **AI/ML fundamentals and applied systems**
+- building **projects that demonstrate practical AI use**
+- exploring **research and technical depth in computing**
+- contributing to **technical communities and collaborative projects**
 
 ---
 
-## 🔭 Featured Project
+## Current Focus
 
-### 📘 [Book Portal](https://github.com/itirksnasingh/bookexchangeportal)
-
-A full-stack platform built using **PHP** and **MySQL** that allows users to browse, add, and manage a personalized collection of books.
-
-> ✨ Features:
-- Browse books by genre, title, or author  
-- Add, edit, or delete book entries from your personal library  
-- Login/signup system with database integration  
-- Backend powered by PHP and data managed with MySQL
-
-> 🛠 Tech Stack:  
-HTML, CSS, JavaScript, **PHP**, **MySQL**
+- Building AI/ML projects to strengthen applied understanding  
+- Exploring topics like **LLMs, ML systems, and intelligent applications**  
+- Preparing for **internships and research opportunities**  
+- Developing a technical community through **AIgnite**, an AI-focused student initiative
 
 ---
 
-## 📌 Other Projects
+## Tech & Tools
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Mini Portfolio](https://github.com/itirksnasingh/miniportfolio) | A personal site to showcase my work and skills | HTML, CSS, JS,C,PYTHON |
-| [Web Mini Projects](https://github.com/itirksnasingh/web-mini-projects) | Collection of small frontend designs | HTML, CSS, JS |
+**Languages**
+
+Python • JavaScript • C • SQL
+
+**Web**
+
+HTML • CSS • React
+
+**AI / Data**
+
+Python • NumPy • Pandas • Scikit-Learn (learning)  
+Exploring ML workflows and model deployment
+
+**Tools**
+
+Git • GitHub • VS Code • Vercel
 
 ---
 
-## 📈 GitHub Stats
+## Selected Projects
+
+Here are a few projects from my learning journey:
+
+- **AI Knowledge Assistant**  
+  A document-based assistant using semantic search and LLMs to answer questions from uploaded content.
+
+- **Customer Churn Intelligence**  
+  Machine learning system that predicts customer churn and simulates retention strategies.
+
+- **Resume Skill Gap Analyzer**  
+  An NLP-based tool that compares resumes with job descriptions to identify missing skills.
+
+More projects and experiments can be found in my repositories.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight" width="48%" />
@@ -69,15 +78,16 @@ HTML, CSS, JavaScript, **PHP**, **MySQL**
 
 ---
 
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/itirksnasingh)
-- 📬 Email: singhsanskruti2007@gmail.com
-- 🌐 Portfolio: *coming soon*
+## Connect
+[📬 Email](singhsanskruti2007@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/itirksnasingh)  
+[Portfolio](https://itirksnasinghportfolio.vercel.app)
 
 ---
 
-<p align="center">✨ "Consistency beats perfection." ✨</p>
+<p align="center">
+always learning • always building
+</p>
 
 
 <!---
