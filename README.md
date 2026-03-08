@@ -79,18 +79,18 @@ More projects and experiments can be found in my repositories.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksnasingh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksnasingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
 
 ---
 
 ## Connect
-[📬 Email](singhsanskruti2007@gmail.com)
+Email 📬: [Email](singhsanskruti2007@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/itirksnasingh) 
+LinkedIn 💼: [LinkedIn](https://www.linkedin.com/in/itirksnasingh) 
 
-[Portfolio](https://itirksnasinghportfolio.vercel.app)
+Portfolio 🌐: [Portfolio](https://itirksnasinghportfolio.vercel.app)
 
 ---
 
