@@ -62,15 +62,14 @@ Right now my focus is on:
 ## Selected Projects
 
 Here are a few projects from my learning journey:
+### AI Knowledge Assistant
+A document-based assistant using semantic search and LLMs to answer questions from uploaded content.
 
-- **AI Knowledge Assistant**  
-  A document-based assistant using semantic search and LLMs to answer questions from uploaded content.
+### Customer Churn Intelligence
+Machine learning system that predicts customer churn and simulates retention strategies.
 
-- **Customer Churn Intelligence**  
-  Machine learning system that predicts customer churn and simulates retention strategies.
-
-- **Resume Skill Gap Analyzer**  
-  An NLP-based tool that compares resumes with job descriptions to identify missing skills.
+### Resume Skill Gap Analyzer
+An NLP-based tool that compares resumes with job descriptions to identify missing skills.
 
 More projects and experiments can be found in my repositories.
 
@@ -79,18 +78,16 @@ More projects and experiments can be found in my repositories.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itirksnasingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itirksnasingh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=itirksnasingh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## Connect
-Email 📬: [Email](singhsanskruti2007@gmail.com)
-
-LinkedIn 💼: [LinkedIn](https://www.linkedin.com/in/itirksnasingh) 
-
-Portfolio 🌐: [Portfolio](https://itirksnasinghportfolio.vercel.app)
+Email 📬: [itirksnasingh@gmail.com](singhsanskruti2007@gmail.com)
+LinkedIn 💼: [itirksnasingh.LinkedIn.com](https://www.linkedin.com/in/itirksnasingh) 
+Portfolio 🌐: [itirksnasingh_portfolio](https://itirksnasinghportfolio.vercel.app)
 
 ---
 
