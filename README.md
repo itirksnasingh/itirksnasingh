@@ -89,8 +89,8 @@ Some of it simply becomes understanding.
 
 ## Connect
 Email 📬: [itirksnasingh@gmail.com](mailto:singhsanskruti2007@gmail.com)
-LinkedIn 💼: [itirksnasingh.LinkedIn.com](https://www.linkedin.com/in/itirksnasingh) 
-Portfolio 🌐: [itirksnasingh_portfolio](https://itirksnasinghportfolio.vercel.app)
+     LinkedIn 💼: [itirksnasingh.LinkedIn.com](https://www.linkedin.com/in/itirksnasingh) 
+     Portfolio 🌐: [itirksnasingh_portfolio](https://itirksnasinghportfolio.vercel.app)
 
 ---
 
